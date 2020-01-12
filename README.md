@@ -7,8 +7,10 @@ Top and bottom can be fixed with stand-off hex brass as in my privious raspberry
 <br>
 **Images**
 <br>
+
 ![Plate Case Top](img/case.png)
 <br>
+
 ![Plate Case Bottom](img/cap.png)
 
 # LICENSE
