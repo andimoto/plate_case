@@ -4,13 +4,12 @@ Actually I hope that it fits approximately. I don't have any Echo device. So I d
 This model was made to provide a case where you can install small dev boards, etc, and place an echo device on it.
 Top and bottom can be fixed with stand-off hex brass as in my privious raspberry pi case model.
 
-<br>
-##Images
-<br>
+
+## Images
+
 
 ![Plate Case Top](img/case.png)
 <br>
-
 ![Plate Case Bottom](img/cap.png)
 
 # LICENSE
