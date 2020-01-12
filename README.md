@@ -5,7 +5,7 @@ This model was made to provide a case where you can install small dev boards, et
 Top and bottom can be fixed with stand-off hex brass as in my privious raspberry pi case model.
 
 <br>
-**Images**
+##Images
 <br>
 
 ![Plate Case Top](img/case.png)
